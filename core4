@@ -43,10 +43,10 @@
         <!-- Fill in the row for Variables -->
         <tr>
         <td><b>Variables</b></td>
-          <td>  </td>
-          <td>  </td>
-          <td>  </td>
-          <td>  </td>
+          <td> Variables are a storage location paired with an associated symbolic name (an identifier), which contains some known or unknown quantity of information referred to as a value.  </td>
+          <td> The balance of the creditcards value is actually money. </td>
+          <td> The operand to the left of the = operator is the name of the variable and the operand to the right of the = operator is the value stored in the variable. 
+          <td> <img src = "variable" alt </td>
         </tr>
 
         <!-- Fill in the row for Loops -->
